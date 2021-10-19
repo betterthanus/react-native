@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "m8",
-    "slug": "m8",
+    "name": "ricky_and_morty_app",
+    "slug": "ricky_and_morty_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.emin.ricky_and_morty_app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
